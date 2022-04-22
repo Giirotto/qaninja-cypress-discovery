@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Raffael Girotto",
+        "cpf": "00000014141",
+        "email": "raffael@justa.com.vc",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "06455030",
+            "street": "Alameda Xingu",
+            "number": "350",
+            "details": "Justa",
+            "district": "Alphaville Centro Industrial e Empresarial/Alphaville.",
+            "city_state": "Barueri/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "x00000141AA",
+        "email": "joao@joao.com.br",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "06455030",
+            "street": "Alameda Xingu",
+            "number": "350",
+            "details": "Justa",
+            "district": "Alphaville Centro Industrial e Empresarial/Alphaville.",
+            "city_state": "Barueri/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Raffael Girotto",
+        "cpf": "00000014141",
+        "email": "raffael.com.vc",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "06455030",
+            "street": "Alameda Xingu",
+            "number": "350",
+            "details": "Justa",
+            "district": "Alphaville Centro Industrial e Empresarial/Alphaville.",
+            "city_state": "Barueri/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
